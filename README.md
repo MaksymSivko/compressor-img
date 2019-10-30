@@ -1,1 +1,3 @@
-# compressor-img
+# compressor-img 
+npm i 
+gulp
